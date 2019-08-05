@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>token</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">9210b50e4f033300aa96aa95d310c798</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-05 07:36:38</sys_created_on>
+        <sys_id>6755f1064f433300aa96aa95d310c7c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>token</sys_name>
+        <sys_package display_value="IPLookup" source="x_375152_iplookup">a9fde14e4f033300aa96aa95d310c76b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">a9fde14e4f033300aa96aa95d310c76b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_6755f1064f433300aa96aa95d310c7c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-05 07:36:38</sys_updated_on>
+        <value/>
+    </sys_rest_message_fn_param_defs>
+</record_update>
